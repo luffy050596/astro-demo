@@ -24,5 +24,6 @@ pnpm-debug.log*
 
 # specstory explanation file
 .specstory/
+.specstory/.what-is-this.md
 .cursor/
 .cursor*
