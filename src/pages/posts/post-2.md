@@ -1,4 +1,5 @@
 ---
+layout: '../../layouts/MarkdownPostLayout.astro'
 title: My Second Blog Post
 author: Astro Learner
 description: "After learning some Astro, I couldn't stop!"
@@ -9,5 +10,3 @@ pubDate: 2025-05-06
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
-
-[Previous Post](/posts/post-1/) | [Back to Blog](/blog) | [Next Post](/posts/post-3/)
